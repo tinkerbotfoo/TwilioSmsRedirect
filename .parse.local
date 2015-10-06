@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "twilio-hosted"
+    },
+    "twilio-hosted": {
+      "applicationId": "XXXX"
+    }
+  }
+}
